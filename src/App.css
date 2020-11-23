@@ -1,0 +1,92 @@
+body,
+html {
+  height: 100%;
+  background-color: #ff726f !important;
+}
+
+.App {
+  padding-top: 100px;
+  background-color: #ff726f;
+}
+
+.pokemon-card {
+  border: 20px solid #ff0000;
+  border-radius: 5px;
+}
+
+.bg-card {
+  background-color: #ffcccb;
+}
+
+.backImage {
+  border: 5px solid #ff0000;
+  position: absolute;
+  background-color: #ffefea;
+  margin-left: 15px;
+}
+
+span {
+  font-weight: bold;
+}
+
+hr.new4 {
+  border: 1px solid #ff0000;
+  background-color: #ff0000;
+}
+
+.color {
+  text-transform: uppercase;
+}
+
+.hp {
+  color: #ff0000;
+  font-weight: lighter;
+}
+
+small {
+  color: #ffffff;
+}
+
+@media (max-width: 1200px) {
+  .backImage {
+    height: 80px;
+    width: 80px;
+  }
+  .backImage img {
+    height: 70px;
+    width: 70px;
+  }
+}
+
+@media (max-width: 991px) {
+  .mainTitle h1 {
+    font-size: 25px;
+  }
+}
+
+@media (max-width: 767px) {
+  .mainTitle h1 {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 450px) {
+  .mainTitle h1 {
+    font-size: 25px;
+  }
+  .backImage {
+    height: 50px;
+    width: 50px;
+  }
+  .backImage img {
+    height: 40px;
+    width: 40px;
+  }
+}
+
+@media (max-width: 320px) {
+  .mainTitle h1 {
+    font-size: 20px;
+    padding-right: 20px;
+  }
+}
