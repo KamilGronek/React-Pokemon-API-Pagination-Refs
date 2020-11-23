@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Pokemon-API-Pagination-Refs/static/css/main.32a7627c.chunk.css",
+    "main.js": "/React-Pokemon-API-Pagination-Refs/static/js/main.ec2ba2b7.chunk.js",
+    "main.js.map": "/React-Pokemon-API-Pagination-Refs/static/js/main.ec2ba2b7.chunk.js.map",
+    "runtime-main.js": "/React-Pokemon-API-Pagination-Refs/static/js/runtime-main.a8de93ba.js",
+    "runtime-main.js.map": "/React-Pokemon-API-Pagination-Refs/static/js/runtime-main.a8de93ba.js.map",
+    "static/css/2.99db5e02.chunk.css": "/React-Pokemon-API-Pagination-Refs/static/css/2.99db5e02.chunk.css",
+    "static/js/2.345388bd.chunk.js": "/React-Pokemon-API-Pagination-Refs/static/js/2.345388bd.chunk.js",
+    "static/js/2.345388bd.chunk.js.map": "/React-Pokemon-API-Pagination-Refs/static/js/2.345388bd.chunk.js.map",
+    "index.html": "/React-Pokemon-API-Pagination-Refs/index.html",
+    "precache-manifest.1f10bde7caec0e906847898046bd4a7c.js": "/React-Pokemon-API-Pagination-Refs/precache-manifest.1f10bde7caec0e906847898046bd4a7c.js",
+    "service-worker.js": "/React-Pokemon-API-Pagination-Refs/service-worker.js",
+    "static/css/2.99db5e02.chunk.css.map": "/React-Pokemon-API-Pagination-Refs/static/css/2.99db5e02.chunk.css.map",
+    "static/css/main.32a7627c.chunk.css.map": "/React-Pokemon-API-Pagination-Refs/static/css/main.32a7627c.chunk.css.map",
+    "static/js/2.345388bd.chunk.js.LICENSE.txt": "/React-Pokemon-API-Pagination-Refs/static/js/2.345388bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8de93ba.js",
+    "static/css/2.99db5e02.chunk.css",
+    "static/js/2.345388bd.chunk.js",
+    "static/css/main.32a7627c.chunk.css",
+    "static/js/main.ec2ba2b7.chunk.js"
+  ]
+}
